@@ -1,0 +1,119 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "kalank",
+      "url": "https://www.themoviedb.org/t/p/original/ngGrveHVFmZp8uVYCDUKf2exutg.jpg",
+      "embedLink": "https://www.youtube.com/embed/Grr0FlC8SQA"
+    },
+    {
+      "id": "gangubhai",
+      "caption": "song",
+      "url": "https://1.bp.blogspot.com/-MV2kKrOd1DQ/Xh6_dZ66YpI/AAAAAAAAuHI/fJcqiP0DBeAwz7p8CNK9fASZZIUcUH5tgCNcBGAsYHQ/s1600/Gangubai-Kathiawadi-Poster-2.jpg",
+      "embedLink": "https://www.youtube.com/embed/0uR45roIGA4"
+    },
+    {
+      "id": "tumhi hoo",
+      "caption": "song",
+      "url": "https://th.bing.com/th/id/OIP.ZdS-omht8lAVEQZjH8OuWAAAAA?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o"
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "hindi",
+      "allvideos": [
+        {
+          "id": "tumhi hoo",
+          "caption": "song",
+          "url": "https://th.bing.com/th/id/OIP.ZdS-omht8lAVEQZjH8OuWAAAAA?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil movie songs",
+      "allvideos": [
+        {
+          "id": "gangubhai",
+          "caption": "song",
+          "url": "https://1.bp.blogspot.com/-MV2kKrOd1DQ/Xh6_dZ66YpI/AAAAAAAAuHI/fJcqiP0DBeAwz7p8CNK9fASZZIUcUH5tgCNcBGAsYHQ/s1600/Gangubai-Kathiawadi-Poster-2.jpg",
+          "embedLink": "https://www.youtube.com/embed/0uR45roIGA4"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Arabic songs",
+      "allvideos": [],
+      "id": 3
+    },
+    {
+      "CategoryName": "Telugu song",
+      "allvideos": [],
+      "id": 4
+    },
+    {
+      "CategoryName": "English songs",
+      "allvideos": [],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/Grr0FlC8SQA",
+      "timestamp": "07/11/2023, 16:55:31",
+      "id": 1
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/0uR45roIGA4",
+      "timestamp": "07/11/2023, 16:58:34",
+      "id": 2
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o",
+      "timestamp": "07/11/2023, 17:01:17",
+      "id": 3
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o",
+      "timestamp": "07/11/2023, 17:04:49",
+      "id": 4
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o",
+      "timestamp": "08/11/2023, 14:39:39",
+      "id": 5
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/0uR45roIGA4",
+      "timestamp": "08/11/2023, 14:39:44",
+      "id": 6
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o",
+      "timestamp": "09/11/2023, 14:34:29",
+      "id": 7
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/0uR45roIGA4",
+      "timestamp": "09/11/2023, 14:35:36",
+      "id": 8
+    },
+    {
+      "caption": "song",
+      "embedLink": "https://www.youtube.com/embed/DbLJiKT7p-o",
+      "timestamp": "09/11/2023, 15:22:05",
+      "id": 9
+    }
+  ]
+}
